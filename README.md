@@ -11,7 +11,7 @@ Users can register, log in, create posts, and view content from others in a clea
 - Media upload support (images in posts)
 - Admin panel for managing content
 - Responsive UI using Django templates
-- Organized project structure
+- Organized project structure!
 
 
 ## ⚙️ Installation
@@ -38,3 +38,5 @@ Django
 SQLite3 (default, can be swapped)
 Bootstrap (if used in templates)
 HTML/CSS (Django templating)
+
+![color_channels](https://github.com/user-attachments/assets/653384fd-dd2b-4277-aaa6-06531fb3270c)
