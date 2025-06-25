@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block title %}
+BlogNest
+{% endblock %}
+
+{% block content %}
+<div class="text-center mb-4">
+    <h1>
+        {% if form.instance.pk %}
+            Edit Tweet
+        {% else %}
+            Create Tweet
+        {% endif %}
+    </h1>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+        <div class="card shadow-sm border-0">
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button type="submit" class="btn btn-warning">Submit</button>
+                        <a href="{% url 'tweet_list' %}" class="btn btn-outline-primary">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
