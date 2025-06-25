@@ -1,4 +1,4 @@
-# BlogNest
+![Screenshot 2025-06-25 at 6 48 32 PM](https://github.com/user-attachments/assets/1edd19e3-f409-43d2-b6e2-47b9a101fb39)# BlogNest
 
 A full-featured Django web application for blogging and micro-posting (tweet-like) functionality.  
 Users can register, log in, create posts, and view content from others in a clean interface.
@@ -12,6 +12,10 @@ Users can register, log in, create posts, and view content from others in a clea
 - Admin panel for managing content
 - Responsive UI using Django templates
 - Organized project structure!
+
+- ![Screenshot 2025-06-25 at 6 48 32 PM](https://github.com/user-attachments/assets/1f0b6b7d-b332-4724-9700-37a2056f2954)
+![Screenshot 2025-06-25 at 6 50 19 PM](https://github.com/user-attachments/assets/cf1d1fa2-c215-42ef-8e41-c1cf1f72acb9)
+
 
 
 ## ⚙️ Installation
@@ -39,4 +43,4 @@ SQLite3 (default, can be swapped)
 Bootstrap (if used in templates)
 HTML/CSS (Django templating)
 
-![color_channels](https://github.com/user-attachments/assets/653384fd-dd2b-4277-aaa6-06531fb3270c)
+
