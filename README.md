@@ -17,8 +17,8 @@ Users can register, log in, create posts, and view content from others in a clea
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-git clone https://github.com/Lakshya3859/BlogNest.git
-cd BlogNest
+-git clone https://github.com/Lakshya3859/BlogNest.git
+-cd BlogNest
 python3 -m venv .venv
 source .venv/bin/activate   # For macOS/Linux
 # OR
