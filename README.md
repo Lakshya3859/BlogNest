@@ -30,14 +30,14 @@ A full-featured Django web application for blogging and micro-posting with tweet
 - ![Screenshot 2025-06-25 at 6 48 32 PM](https://github.com/user-attachments/assets/d5ac1295-8b9e-4a8a-8ce0-c036f0a945b4)
 
 - ![Screenshot 2025-06-28 at 11 02 25 AM](https://github.com/user-attachments/assets/f1b272f2-db62-4c25-bea8-29dcf8a93660)
- 
-- ![Screenshot 2025-06-30 at 3 56 22 PM](https://github.com/user-attachments/assets/0af142a7-8d3f-452f-811c-40a8c3bd4b5a)
 
-- ![Screenshot 2025-06-30 at 3 56 06 PM](https://github.com/user-attachments/assets/766e42a4-d9c9-4f52-8865-7c04a848312b)
- 
-- ![Screenshot 2025-06-30 at 3 56 03 PM](https://github.com/user-attachments/assets/7ce43543-80a3-4b0a-b2ec-8ecc49a0867c)
+-![Screenshot 2025-06-30 at 3 56 22 PM](https://github.com/user-attachments/assets/71880680-bb0f-4939-a0ab-2f8e296838cb)
 
-- ![Screenshot 2025-06-30 at 3 56 36 PM](https://github.com/user-attachments/assets/e4f76362-71fe-4af5-9af5-70ea3592170e)
+-![Screenshot 2025-06-30 at 3 56 06 PM](https://github.com/user-attachments/assets/38ed2f96-fe98-436e-af9e-f8ad3334b1ee)
+
+-![Screenshot 2025-06-30 at 3 56 03 PM](https://github.com/user-attachments/assets/87af99c9-c531-410f-9ecd-91d8cd4cf9c5)
+![Screenshot 2025-06-30 at 3 56 36 PM](https://github.com/user-attachments/assets/41538a83-a28f-4f49-afed-07ee1a53fb2a)
+
 
 
  
